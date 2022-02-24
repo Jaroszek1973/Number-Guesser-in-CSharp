@@ -1,0 +1,14 @@
+C:\Users\trzec\source\repos\Number_Guesser\Number_Guesser\bin\Debug\netcoreapp3.1\Number_Guesser.exe
+C:\Users\trzec\source\repos\Number_Guesser\Number_Guesser\bin\Debug\netcoreapp3.1\Number_Guesser.deps.json
+C:\Users\trzec\source\repos\Number_Guesser\Number_Guesser\bin\Debug\netcoreapp3.1\Number_Guesser.runtimeconfig.json
+C:\Users\trzec\source\repos\Number_Guesser\Number_Guesser\bin\Debug\netcoreapp3.1\Number_Guesser.runtimeconfig.dev.json
+C:\Users\trzec\source\repos\Number_Guesser\Number_Guesser\bin\Debug\netcoreapp3.1\Number_Guesser.dll
+C:\Users\trzec\source\repos\Number_Guesser\Number_Guesser\bin\Debug\netcoreapp3.1\Number_Guesser.pdb
+C:\Users\trzec\source\repos\Number_Guesser\Number_Guesser\obj\Debug\netcoreapp3.1\Number_Guesser.csproj.AssemblyReference.cache
+C:\Users\trzec\source\repos\Number_Guesser\Number_Guesser\obj\Debug\netcoreapp3.1\Number_Guesser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trzec\source\repos\Number_Guesser\Number_Guesser\obj\Debug\netcoreapp3.1\Number_Guesser.AssemblyInfoInputs.cache
+C:\Users\trzec\source\repos\Number_Guesser\Number_Guesser\obj\Debug\netcoreapp3.1\Number_Guesser.AssemblyInfo.cs
+C:\Users\trzec\source\repos\Number_Guesser\Number_Guesser\obj\Debug\netcoreapp3.1\Number_Guesser.csproj.CoreCompileInputs.cache
+C:\Users\trzec\source\repos\Number_Guesser\Number_Guesser\obj\Debug\netcoreapp3.1\Number_Guesser.dll
+C:\Users\trzec\source\repos\Number_Guesser\Number_Guesser\obj\Debug\netcoreapp3.1\Number_Guesser.pdb
+C:\Users\trzec\source\repos\Number_Guesser\Number_Guesser\obj\Debug\netcoreapp3.1\Number_Guesser.genruntimeconfig.cache
